@@ -1,0 +1,23 @@
+.App {
+  padding: 20px;
+}
+.container {
+  max-width: 300px;
+}
+.card {
+  max-width: 300px;
+  margin: 0 auto;
+}
+h3 {
+  margin-top: 10px;
+  color: rgb(255, 0, 0);
+}
+form {
+  margin-bottom: 10px;
+}
+.card-body p:last-child {
+  margin-bottom: 0;
+}
+img {
+  padding: 2px;
+}
